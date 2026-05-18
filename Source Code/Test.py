@@ -10,8 +10,6 @@ This script performs:
 5. Publication-ready visualizations
 6. Results exported to CSV/JSON for paper
 
-Author: Jashit
-Date: April 2026
 """
 
 import pandas as pd
